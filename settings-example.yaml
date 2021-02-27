@@ -1,0 +1,7 @@
+---
+clubs_file: clubs-scedule.yaml
+vkontakte:
+  user_token: <user_token>
+  api_url: https://api.vk.com/
+  group_id: <group_id>
+...

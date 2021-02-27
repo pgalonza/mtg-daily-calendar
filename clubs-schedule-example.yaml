@@ -1,0 +1,5 @@
+---
+- club_name: <club_name>
+  schedule:
+    <day_of_week>: '<event_time>'
+...
